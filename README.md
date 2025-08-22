@@ -1,5 +1,10 @@
-# OCR-Application 🔠📰
-## Project Overview
-Welcome to the Streamlit OCR App, a powerful yet user-friendly tool designed to extract text from images seamlessly. Built by expert Python and AI/ML developers, this demo application showcases state-of-the-art Optical Character Recognition (OCR) capabilities in a secure and scalable environment.
+# 🔠📰OCR-Application
+## 🛠️Project Overview
+Welcome to the Streamlit OCR App, a powerful yet user-friendly tool designed to extract text from images seamlessly.
 
-#----------------------------------------------
+
+## 🛠️ Technologies Used
+
+- **Stack**: StreamLit
+- **Image Recognition**: EasyOCR
+- **Image Processing**: OpenCV, NumPy
